@@ -1,0 +1,26 @@
+.jumbotron {
+	text-align: center;
+	color: pink;
+	background: white;
+	border: solid 1px purple;
+	font-family: "bubblegum sans";
+}
+
+body {
+	background: url(../images/cherryblossom.jpg) no-repeat;
+	background-size: cover;
+}
+
+.form-inline {
+	float: right;
+	position: relative;
+}
+
+#gButtons {
+	position: relative;
+	left: 540px;
+}
+
+#Images{
+	position: static;
+}
